@@ -1,0 +1,27 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Jinsheng NodeJS Static Web server",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinsheng15/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinsheng15/anydoor/issues"
+  },
+  "homepage": "https://github.com/jinsheng15/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "handlebars": "^4.0.12"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.0"
+  }
+}
